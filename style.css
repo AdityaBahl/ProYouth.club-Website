@@ -1,0 +1,22 @@
+.image {
+    position: relative;
+    width: 1pc;
+    height: 0.7pc;
+}
+.imageOne{
+    margin-top: 8pc;
+    margin-left: 5pc;
+}
+.imageTwo {   
+    margin-left: 7.5pc;
+    margin-top: 1.55pc;
+}
+.written{
+    color:white;
+    margin-left: 17pc;
+    font-family: 'Raleway', sans-serif;
+}
+.bg{
+    margin-left: -1pc;
+    margin-top: -1pc;
+}
